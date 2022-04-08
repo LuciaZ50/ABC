@@ -1,0 +1,99 @@
+<resources>
+    <string name="app_name">abc</string>
+
+    <string name="tecaj">
+        TEČAJEVI</string>
+    <string name="pocetna">
+        \n
+        Otkrijte s nama prekrasne čari talijanskog jezika
+
+    \n</string>
+    <string name="pocetna2">
+
+        \n
+        \n
+        Bilo da ste početnik ili napredni korisnik, kroz naše tečajeve uz profesore – izvorne govornike – naučit ćete efikasno komunicirati na talijanskom jeziku.
+
+Komunikacija je sastavni dio nastave.
+        \n Metoda poučavanja (metodo induttivo umanistico-affettivo) je bazirana na komunikaciji, u zabavnom i opuštenom okruženju.</string>
+
+
+    <string name="boldano"><b>Samostalno i brzo ćete otkriti prekrasan talijanski jezik.</b></string>
+    <string name="upisitese"><b>Upišite se na tečaj talijanskog jezika</b></string>
+    <string name="info">Više informacija</string>
+    <string name="mozebiti">Tečaj može biti:</string>
+    <string name="opis"><b>OPIS TEČAJA:</b>
+        \n
+        \n
+    Bilo da ste početnik ili napredni korisnik, kroz ovaj tečaj talijanskog ćete se, uz profesore – izvorne govornike – naučiti efikasno komunicirati na talijanskom jeziku. Komunikacija je sastavni dio nastave. Metoda poučavanja (metodo induttivo umanistico-affettivo) je bazirana na komunikaciji, u zabavnom i opuštenom okruženju. Samostalno i brzo ćete otkriti prekrasan talijanski jezik.
+        \n
+        \n
+        <b>PROFESORI:</b>
+        \n
+        \n
+        Profesori ne samo da su izvorni govornici specijalizirani za poučavanje talijanskog jezika, već su i pravi izvor raznolikih kultura i garantiraju zanimljive sadržaje. ABC Scuola u Zagrebu već dugo godina pruža individualan pristup brojnim polaznicima. Profesori ne poučavaju samo jezik, već i sve one sitnice koje mogu utjecati na dobru komunikaciju na talijanskom: samo jedna kriva gesta ili neprikladan izraz lica može napraviti razliku!
+        \n
+        \n
+    <b>METODA I PRINCIP RADA:</b>
+        \n
+        \n
+    Škola ABC – Tečajevi talijanskog jezika i kulture polazna je točka za kvalitetno učenje talijanskog jezika za polaznike svih uzrasta i razina znanja.
+    Izvrsni rezultati i brzina napredovanja u učenju jezika su zajamčeni. Naglašavamo individualni pristup svakom pojedinom polazniku te se prilagođavamo njegovom načinu i ritmu učenja.
+    Humanistički pristup, na koji se škola ABC poziva i čija pravila slijedi i poštuje, smješta polaznika u središte procesa učenja.
+    U fokusu nastave je konverzacija a izvorni govornici jamče visoku i učinkovitu komunikativnu kompetenciju uz naglasak na točnost. Polaznici su maksimalno motivirani na učenje na koje ih potiče vedrina profesora i metoda rada bez stresa i velikog napora. Naš glavni cilj je jezična kompetencija, a njeno postizanje prati upoznavanje kulturoloških sadržaja.
+    </string>
+    <string name="pogodnosti">
+        \n
+        \n
+        <b>DODATNE POGODNOSTI UZ TEČAJ:</b>
+        \n
+        \n
+
+    • Besplatno testiranje: Dogovorite Vaš termin testiranja, a mi ćemo naći pravu grupu za Vas\n
+        \n
+    • Kava u kafiću: (Kada se vratimo u školu) Kako bolje naučiti nego među prijateljima? A kako bismo se bolje upoznali i zbližili, ništa bolje od dobre kave u lijepom kafiću\n
+        \n
+    • Certifikat: Na kraju tečaja svi naši polaznici dobivaju certifikat o završenom stupnju\n
+        \n
+    • Mogućnost stipendije: Svi naši polaznici imaju mogućnost dobivanja stipendije za usavršavanje znanja talijanskog jezika u najboljim školama u Italiji (Firenzi, Torinu, Rimu, Riminiju, Cataniji i drugim gradovima)\n
+        \n
+    • Korištenje Medijateke u Institutu za talijanski jezik i kulturu uz veliki popust\n
+    \n
+        <b>DODATNO USAVRŠAVANJE:</b>
+        \n
+        \n
+
+    Nudimo usavršavanje jezika u Italiji kroz olakšice koje Talijanski institut za kulturu nudi polaznicima, kao i usluge Medijateke Instituta te mogućnost polaganja međunarodno priznatoga ispita znanja talijanskoga jezika – CILS.
+    Abc – Tečajevi talijanskog jezika i kulture – vaš je prvi i najsigurniji izbor za učenje talijanskoga jezika, pravi put za postizanje autentičnog izgovora i zavidne razine znanja talijanskoga jezika i kulture.
+    </string>
+    <string name="klas">
+        tempo po dogovoru\n
+        \n
+        \n
+Brza i zabavna komunikacija uz izvorne govornike na talijanskom jeziku o svakodnevnim situacijama, ovisno o vašim potrebama
+        \n
+
+Dogovorite probno testiranje ovdje
+        \n
+    </string>
+    <string name="inten">
+        \n
+    2 x tjedno po 2 sata
+        \n
+    1 x tjedno po 3 sata
+        \n
+    Brza i zabavna komunikacija uz izvorne govornike na talijanskom jeziku o svakodnevnim situacijama.
+        \n
+    </string>
+    <string name="poslo">
+        \n
+        Tempo prema dogovoru
+        \n
+        Sati prema dogovoru
+        \n
+        Sadržaj prilagođavamo vašim potrebama: bilo da radite u banci ili osiguravajućoj kući, zajedno ćemo usavršiti Vaš poslovni talijanski.
+        \n
+    </string>
+
+
+</resources>

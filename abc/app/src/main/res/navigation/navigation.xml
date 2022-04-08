@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/navigation.xml"
+    app:startDestination="@id/pocetnaFragment3">
+    <fragment
+        android:id="@+id/pocetnaFragment3"
+        android:name="com.example.abc.pocetnaFragment"
+        android:label="pocetnaFragment" >
+        <action
+            android:id="@+id/action_pocetnaFragment3_to_viseInfoFragment3"
+            app:destination="@id/viseInfoFragment3" />
+        <action
+            android:id="@+id/action_pocetnaFragment3_to_intenzivniFragment"
+            app:destination="@id/intenzivniFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/viseInfoFragment3"
+        android:name="com.example.abc.viseInfoFragment"
+        android:label="fragment_vise_info2"
+        tools:layout="@layout/fragment_vise_info2" />
+    <fragment
+        android:id="@+id/intenzivniFragment"
+        android:name="com.example.abc.intenzivniFragment"
+        android:label="fragment_intenzivni"
+        tools:layout="@layout/fragment_intenzivni" />
+</navigation>
